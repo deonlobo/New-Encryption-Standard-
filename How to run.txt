@@ -1,0 +1,4 @@
+run on Spyder
+The plaintext.txt contains the plaintext
+The ciphertext.tx contains the ciphertext 
+The decryptedtext.txt contains the decrypted text
